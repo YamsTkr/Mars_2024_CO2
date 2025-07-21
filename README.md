@@ -33,9 +33,9 @@ Une perspective intéressante serait de collecter des données plus globales, pr
  
  
 Acteurs du projet:
+Yamadou Tounkara
 Sarah Hemmel
 Saoussen Chaouch
-Yamadou Tounkara
 Jean-marc Allègre
 Elliot Douieb(mentor Datascientest du projet)
 
